@@ -3,3 +3,4 @@
 *.drawio
 *.xlsx
 *.pdf
+poetry.lock
