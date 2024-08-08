@@ -4,3 +4,4 @@
 *.xlsx
 *.pdf
 poetry.lock
+*.jpg
